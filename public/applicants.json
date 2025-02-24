@@ -1,0 +1,13 @@
+[
+    {
+        "name": "KAOUTAR",
+        "mail": "kaoutar1@gmail.com",
+        "password": "password1",
+        "passportNumber": "X12345678",
+        "passportIssueDate": "2022-01-15",
+        "passportExpiryDate": "2032-01-14",
+        "nationality": "Moroccan",
+        "dateOfBirth": "1990-05-01",
+        "selfieVideoId": "video-id-1"
+    }
+]
